@@ -18,13 +18,13 @@ I'm Himanshu ,Cuurently a Btech Final year student at NorthCap University. I am 
 
 
 ### Programming Languages  :rocket:
-|<img src="Images/javalogo.png" width=60> | <img src="Images/python.png" width=60>| <img src="Images/logo-html-5.png" width=60> |<img src="Images/php.png" width=60> |<img src="Images/dart.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|
+|<img src="Images/javalogo.png" width=60> | <img src="Images/python.png" width=60>| <img src="Images/logo-html-5.png" width=60> |<img src="Images/css.png" width=80>| <img src="Images/php.png" width=60> |<img src="Images/dart.png" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 
 ### Tools :fire:
-|<img src="images/android_studio.png" width=60>| <img src="Image/figma.png" width=60>|   <img src="Images/firebase.png" width=60> | <img src="Images/25231.svg" width=60> |<img src="Images/logo-stable.png" width=60> |<img src="Images/flutter.png" width=60> |
+|<img src="Images/android_studio.png" width=60>| <img src="Image/figma.png" width=80>|   <img src="Images/firebase.png" width=60> | <img src="Images/25231.svg" width=60> |<img src="Images/logo-stable.png" width=60> |<img src="Images/flutter.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 
