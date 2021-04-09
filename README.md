@@ -24,11 +24,7 @@ I'm Himanshu ,Cuurently a Btech Final year student at NorthCap University. I am 
 
 
 ### Tools :fire:
-<<<<<<< HEAD
 |<img src="Images/android_studio.png" width=60>| <img src="Image/figma.png" width=80>|   <img src="Images/firebase.png" width=60> | <img src="Images/25231.svg" width=60> |<img src="Images/logo-stable.png" width=60> |<img src="Images/flutter.png" width=60> |
-=======
-|<img src="Images/android_studio.png" width=60>| <img src="Images/figma.png" width=60>|   <img src="Images/firebase.png" width=60> | <img src="Images/25231.svg" width=60> |<img src="Images/logo-stable.png" width=60> |<img src="Images/flutter.png" width=60> |
->>>>>>> 47b0c6f54bfba0c33b0e41e9b80a8441e58f777d
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 
