@@ -18,13 +18,13 @@ I'm Himanshu ,Cuurently a Btech Final year student at NorthCap University. I am 
 
 
 ### Programming Languages  :rocket:
-|<img src="Images/javalogo.png" width=60> | <img src="Images/python.png" width=60>| <img src="Images/logo-html-5.png" width=60> |<img src="Image/php.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/dart.png" width=60> |
+|<img src="Images/javalogo.png" width=60> | <img src="Images/python.png" width=60>| <img src="Images/logo-html-5.png" width=60> |<img src="Images/php.png" width=60> |<img src="Images/dart.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|
 
 
 
 ### Tools :fire:
-|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/1200px-Android_Studio_icon.svg.png" width=60>| <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/intellij-idea_logo_300x300.png" width=60>|   <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/firebase.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/25231.svg" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/logo-stable.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/flutter.png" width=60> |
+|<img src="images/android_studio.png" width=60>| <img src="Image/figma.png" width=60>|   <img src="Images/firebase.png" width=60> | <img src="Images/25231.svg" width=60> |<img src="Images/logo-stable.png" width=60> |<img src="Images/flutter.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 
