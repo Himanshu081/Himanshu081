@@ -50,8 +50,6 @@ I'm Himanshu ,Cuurently a Btech Final year student at NorthCap University. I am 
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
@@ -59,5 +57,3 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Links to your social media accounts -->
 
-[1]:https://twitter.com/Himu260299
-[2]:https://www.linkedin.com/in/himanshu-y-18ba29123
