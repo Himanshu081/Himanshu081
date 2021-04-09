@@ -24,8 +24,8 @@ I'm Himanshu  A Btech Final year student, App Developer ,Web Designer & Develope
 
 
 ### Tools :fire:
-|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/1200px-Android_Studio_icon.svg.png" width=60>| <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/intellij-idea_logo_300x300.png" width=60>| <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/Adobe_Brackets_v0.0.x_icon.png" width=60>|  <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/firebase.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/25231.svg" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/logo-stable.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/flutter.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/1200px-Android_Studio_icon.svg.png" width=60>| <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/intellij-idea_logo_300x300.png" width=60>|   <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/firebase.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/25231.svg" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/logo-stable.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/flutter.png" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 
@@ -35,6 +35,17 @@ I'm Himanshu  A Btech Final year student, App Developer ,Web Designer & Develope
 - 👯 I’m looking to collaborate on Android and web developement
 -  💬 Ask me about Android
 - ⚡ Fun fact: I Love Reading , Playing Cricket and a bunch of Video Games
+
+
+
+### Connect with me :smiley:
+<a href="https://twitter.com/Himu260299">
+  <img align="left" alt="Himanshu Yadav Twitter" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/himanshu-y-18ba29123">
+  <img align="left" alt="Himanshu Yadav Linkdin" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/linkedin.svg" />
+</a>
+
 
 
 <!-- Actual text -->
