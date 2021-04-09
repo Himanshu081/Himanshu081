@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="cen,brter">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
@@ -9,6 +9,14 @@ I'm Himanshu  A Btech Final year student, App Developer ,Web Designer & Develope
     
      
   </samp>
+
+
+
+<br><br>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Himanshu081.Himanshu081" alt="Visitors Counter">
+</p>
+
+
 ### Programming Languages  :rocket:
 |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/kotlin_logo.jpg" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/logo-html-5.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/phplogo.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/dart.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -18,11 +26,6 @@ I'm Himanshu  A Btech Final year student, App Developer ,Web Designer & Develope
 ### Tools :fire:
 |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/1200px-Android_Studio_icon.svg.png" width=60>| <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/intellij-idea_logo_300x300.png" width=60>| <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/Adobe_Brackets_v0.0.x_icon.png" width=60>|  <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/firebase.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/25231.svg" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/logo-stable.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/flutter.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-
-<br><br>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Himanshu081.Himanshu081" alt="Visitors Counter">
-</p>
 
 
 
