@@ -42,7 +42,7 @@ I'm Himanshu ,Currently a Btech Final year student at NorthCap University. I am 
 <a href="https://twitter.com/Himu260299">
   <img align="left" alt="Himanshu Yadav Twitter" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/himanshu-y-18ba29123">
+<a href="https://www.linkedin.com/in/himanshu-y-18ba29123/">
   <img align="left" alt="Himanshu Yadav Linkdin" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/linkedin.svg" />
 </a>
 
@@ -52,8 +52,7 @@ I'm Himanshu ,Currently a Btech Final year student at NorthCap University. I am 
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
 
 <!-- Links to your social media accounts -->
 
