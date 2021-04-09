@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-I'm Himanshu ,Cuurently a Btech Final year student at NorthCap University. I am an App Developer ,Web Designer & Developer from Gurugram, India. I love to design and develop apps websites, landing pages and applications .. 
+I'm Himanshu ,Currently a Btech Final year student at NorthCap University. I am an App Developer ,Web Designer & Web Developer from Gurugram, India. I love to design and develop apps websites, landing pages and applications .. 
     
     
      
