@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-I'm Himanshu  A Btech Final year student, App Developer ,Web Designer & Developer from Gurugram, India. I love to design and develop apps websites, landing pages and applications .. 
+I'm Himanshu ,Cuurently a Btech Final year student at NorthCap University. I am an App Developer ,Web Designer & Developer from Gurugram, India. I love to design and develop apps websites, landing pages and applications .. 
     
     
      
@@ -18,8 +18,8 @@ I'm Himanshu  A Btech Final year student, App Developer ,Web Designer & Develope
 
 
 ### Programming Languages  :rocket:
-|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/kotlin_logo.jpg" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/logo-html-5.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/phplogo.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/dart.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60>| <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/logo-html-5.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/phplogo.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/dart.png" width=60> |
+|:---:|:---:|:---:|:---:|:---:|
 
 
 
