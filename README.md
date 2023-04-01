@@ -19,7 +19,7 @@ I'm Himanshu ,Currently i am working as ETL Developer in Aon Consulting. I have 
 
 
 ### Programming Languages  :rocket:
-|<img src="Images/javalogo.png" width=60> | <img src="Images/python.png" width=60>| <img src="Images/logo-html-5.png" width=60> |<img src="Images/css.png" width=80>| <img src="Images/php.png" width=60> |<img src="Images/dart.png" width=60> |
+|<img src="Images/sql-logo.png" width=60> | <img src="Images/python.png" width=60>| <img src="Images/excel-logo" width=60> |<img src="Images/Tableau-logo" width=80>| <img src="Images/php.png" width=60> |<img src="Images/dart.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 
