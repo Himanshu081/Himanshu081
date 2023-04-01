@@ -4,8 +4,8 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-I'm Himanshu ,Currently i am working as ETL Developer in Aon Consulting. I have almost 2 years of experience in field of Data Analytics , SQL,Python,Excel and tableau 
-.I have worked closely with clients from industry like Insurance ,Finance and Healthcare. I am passionate about empowering business decisions through data analytic 
+I'm Himanshu ,Currently i am working as ETL Developer in Aon Consulting. I have  2 years of experience in field of Data Analytics,SQL,Python,Excel and Tableau 
+.I have worked closely with clients from industry like Insurance ,Finance and Healthcare. I am passionate about empowering business decisions through data analytics
     
     
      
@@ -24,17 +24,13 @@ I'm Himanshu ,Currently i am working as ETL Developer in Aon Consulting. I have 
 
 
 
-### Tools :fire:
-|<img src="Images/android_studio.png" width=60>| <img src="Images/figma.png" width=80>|   <img src="Images/firebase.png" width=60> | <img src="Images/25231.svg" width=60> |<img src="Images/logo-stable.png" width=60> |<img src="Images/flutter.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 
 
-- 🔭 I’m currently working on Find Your TeamMates App
-- 🌱 I’m currently learning Flutter,NodeJS,React.
-- 👯 I’m looking to collaborate on Android and web developement
--  💬 Ask me about Android
+- 🌱 I’m currently Power BI.
+- 👯 I’m looking for Data Analyst/Business Analyst Roles
+-  💬 Ask me about Data Analytics
 - ⚡ Fun fact: I Love Reading , Playing Cricket and a bunch of Video Games
 
 
