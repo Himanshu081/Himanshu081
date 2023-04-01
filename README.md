@@ -49,7 +49,7 @@ I'm Himanshu ,Currently i am working as ETL Developer in Aon Consulting. I have 
 <a href="https://twitter.com/Himu260299">
   <img align="left" alt="Himanshu Yadav Twitter" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/himanshu-y-18ba29123/">
+<a href="https://www.linkedin.com/in/himanshu-y-18ba29123">
   <img align="left" alt="Himanshu Yadav Linkdin" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/linkedin.svg" />
 </a>
 
