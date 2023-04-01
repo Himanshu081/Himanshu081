@@ -18,10 +18,16 @@ I'm Himanshu ,Currently i am working as ETL Developer in Aon Consulting. I have 
 </p>
 
 
+### 💡 My Skills :rocket:
+- ETL development
+- Data preparation, quality assurance, and analysis
+- Dashboard development and reporting
+- Exploratory data analysis
 
-### Programming Languages  :rocket:
-|<img src="Images/sql-logo.png" width=60> | <img src="Images/python.png" width=60>| <img src="Images/excel-logo.png" width=60> |<img src="Images/Tableau-logo.png" width=80>| <img src="Images/php.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+### 🛠️ My Tools
+- Databases: SQL (SQL Server)
+- ETL Tools: Actian Dataconncet, Excel
+- Visualisation: Tableau ,Power BI
 
 
 
@@ -31,7 +37,7 @@ I'm Himanshu ,Currently i am working as ETL Developer in Aon Consulting. I have 
 
 
 
-- 🌱 I’m currently Power BI.
+- 🌱 I’m currently working at Aon Consulting in Data Analytics Team.
 - 👯 I’m looking for Data Analyst/Business Analyst Roles
 -  💬 Ask me about Data Analytics
 - ⚡ Fun fact: I Love Reading , Playing Cricket and a bunch of Video Games
