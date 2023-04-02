@@ -26,7 +26,7 @@ I'm Himanshu ,Currently i am working as ETL Developer in Aon Consulting. I have 
 
 ### 🛠️ My Tools
 - Databases: SQL (SQL Server)
-- ETL Tools: Actian Dataconncet, Excel
+- ETL Tools: Python,Actian Dataconnect, Excel
 - Visualisation: Tableau ,Power BI
 
 
@@ -34,6 +34,20 @@ I'm Himanshu ,Currently i am working as ETL Developer in Aon Consulting. I have 
 
 
 <br>
+<br>
+<br>
+
+### What I always play with
+<p> 
+  <img src="Images/sql-logo.png" width=60> 
+  <img src="Images/python.png" width=60>
+  <img src="Images/excel-logo.png" width=60> 
+  <img src="Images/Tableau-logo.png" width=80>
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
+
+
+</p>
+
 <br>
 
 
