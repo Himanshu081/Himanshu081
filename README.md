@@ -17,8 +17,8 @@ I'm Himanshu ,Currently i am working as ETL Developer in Aon Consulting. I have 
  <a href="">
     <img src="https://komarev.com/ghpvc/?username=Himanshu081&style=for-the-badge">
 </a>
-
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Himanshu081.Himanshu081" alt="Visitors Counter">
+<!--Text-->
+ <!--  <img src="https://visitor-badge.glitch.me/badge?page_id=Himanshu081.Himanshu081" alt="Visitors Counter"> -->
 </p>
 
 
