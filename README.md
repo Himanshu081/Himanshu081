@@ -5,7 +5,7 @@
   <br><br>
   <samp>
 I'm Himanshu ,Currently i am working as ETL Developer in Aon Consulting. I have  2 years of experience in field of Data Analytics,SQL,Python,Excel and Tableau 
-.I have worked closely with clients from industries like Insurance ,Finance and Healthcare domain. I am passionate about empowering business decisions through data analytics.
+.I have worked closely with clients from diverse domains like Insurance ,Finance and Healthcare. I am passionate about empowering business decisions through data analytics.
     
     
      
