@@ -54,7 +54,7 @@ I'm Himanshu ,Currently i am working as ETL Developer in Aon Consulting. I have 
 
 ***
 - 🌱 I’m currently working at Aon Consulting in Data Analytics Team.
-- 👯 I’m looking for Data Analyst/Business Analyst Roles
+- 👯 I’m learning Power BI
 -  💬 Ask me about Data Analytics
 - ⚡ Fun fact: I Love Reading , Playing Cricket and a bunch of Video Games
 
